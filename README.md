@@ -10,4 +10,4 @@ Made of Scratch, exported by TurboWarp.
 
 ## Credits: 
 - Translate Plugin: Based on Google Translate
-Comment if you want some commits! :)
+- Comment if you want some commits! :)
