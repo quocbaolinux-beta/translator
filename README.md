@@ -11,3 +11,8 @@ Made of Scratch, exported by TurboWarp.
 ## Credits: 
 - Translate Plugin: Based on Google Translate
 - Comment if you want some commits! :)
+
+## Changelogs:
+- `v1.2.3`: Initial Release
+- `v1.2.5`: Add Chinese Settings
+- `v1.2.8`: Fix bug `T-001` (Translated words not appeared)
