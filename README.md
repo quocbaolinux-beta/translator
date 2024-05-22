@@ -16,3 +16,4 @@ Made of Scratch, exported by TurboWarp.
 - `v1.2.3`: Initial Release
 - `v1.2.5`: Add Chinese Settings
 - `v1.2.8`: Fix bug `T-001` (Translated words not appeared)
+- `v1.3.0`: Change the UI, introducing Dark Mode (not high contrast) 
